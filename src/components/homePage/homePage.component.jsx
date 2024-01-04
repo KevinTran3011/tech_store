@@ -13,6 +13,11 @@ const HomePage = () => {
             </Link>
           </li>
           <li>
+            <Link to="/store" className="homePage_container--links__link">
+              Store
+            </Link>
+          </li>
+          <li>
             <Link to="/Log_in" className="homePage_container--links__link">
               Log In
             </Link>
